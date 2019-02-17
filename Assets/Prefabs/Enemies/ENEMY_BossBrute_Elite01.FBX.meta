@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: d0b42a387ad59684787a333c0e84d28a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Boss_BruteElite_01
+    100002: //RootNode
+    100004: Eye
+    100006: Head
+    100008: Hips
+    100010: LeftArm
+    100012: LeftFoot
+    100014: LeftForeArm
+    100016: LeftHand
+    100018: LeftHandIndex1
+    100020: LeftHandIndex2
+    100022: LeftHandIndex3
+    100024: LeftHandPinky1
+    100026: LeftHandPinky2
+    100028: LeftHandPinky3
+    100030: LeftHandThumb1
+    100032: LeftHandThumb2
+    100034: LeftHandThumb3
+    100036: LeftLeg
+    100038: LeftShoulder
+    100040: LeftShoulder_extra1
+    100042: LeftShoulder_extra2
+    100044: LeftShoulder_extra3
+    100046: LeftUpLeg
+    100048: Neck
+    100050: RightArm
+    100052: RightFoot
+    100054: RightForeArm
+    100056: RightHand
+    100058: RightHandIndex1
+    100060: RightHandIndex2
+    100062: RightHandIndex3
+    100064: RightHandPinky1
+    100066: RightHandPinky2
+    100068: RightHandPinky3
+    100070: RightHandThumb1
+    100072: RightHandThumb2
+    100074: RightHandThumb3
+    100076: RightLeg
+    100078: RightShoulder
+    100080: RightShoulder_extra1
+    100082: RightShoulder_extra2
+    100084: RightShoulder_extra3
+    100086: RightUpLeg
+    100088: Root
+    100090: Spine
+    100092: Spine1
+    100094: Spine2
+    100096: Armour
+    100098: ArmourZone
+    100100: Armour001_LOD01
+    100102: Boss_BruteElite_Mesh_01
+    100104: Boss_BruteElite_Mesh_01_LOD01
+    400000: Boss_BruteElite_01
+    400002: //RootNode
+    400004: Eye
+    400006: Head
+    400008: Hips
+    400010: LeftArm
+    400012: LeftFoot
+    400014: LeftForeArm
+    400016: LeftHand
+    400018: LeftHandIndex1
+    400020: LeftHandIndex2
+    400022: LeftHandIndex3
+    400024: LeftHandPinky1
+    400026: LeftHandPinky2
+    400028: LeftHandPinky3
+    400030: LeftHandThumb1
+    400032: LeftHandThumb2
+    400034: LeftHandThumb3
+    400036: LeftLeg
+    400038: LeftShoulder
+    400040: LeftShoulder_extra1
+    400042: LeftShoulder_extra2
+    400044: LeftShoulder_extra3
+    400046: LeftUpLeg
+    400048: Neck
+    400050: RightArm
+    400052: RightFoot
+    400054: RightForeArm
+    400056: RightHand
+    400058: RightHandIndex1
+    400060: RightHandIndex2
+    400062: RightHandIndex3
+    400064: RightHandPinky1
+    400066: RightHandPinky2
+    400068: RightHandPinky3
+    400070: RightHandThumb1
+    400072: RightHandThumb2
+    400074: RightHandThumb3
+    400076: RightLeg
+    400078: RightShoulder
+    400080: RightShoulder_extra1
+    400082: RightShoulder_extra2
+    400084: RightShoulder_extra3
+    400086: RightUpLeg
+    400088: Root
+    400090: Spine
+    400092: Spine1
+    400094: Spine2
+    400096: Armour
+    400098: ArmourZone
+    400100: Armour001_LOD01
+    400102: Boss_BruteElite_Mesh_01
+    400104: Boss_BruteElite_Mesh_01_LOD01
+    2300000: Armour001_LOD01
+    3300000: Armour001_LOD01
+    4300000: Boss_BruteElite_01
+    4300002: Armour
+    4300004: Boss_BruteElite_Mesh_01
+    4300006: Armour001_LOD01
+    4300008: Boss_BruteElite_Mesh_01_LOD01
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Boss_BruteElite_01
+    13700002: Armour
+    13700004: Boss_BruteElite_Mesh_01
+    13700006: Boss_BruteElite_Mesh_01_LOD01
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: c1f8b7edb80d9464d9c29e1dab3d96b7, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

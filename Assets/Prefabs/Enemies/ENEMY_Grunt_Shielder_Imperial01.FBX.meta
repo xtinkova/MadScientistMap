@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 7ed5cbba79a9d5544be9d3b925231d40
+timeCreated: 1516198206
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Eye
+    100004: Grunt_Shielder_Shield
+    100006: Head
+    100008: Hips
+    100010: LeftArm
+    100012: LeftFoot
+    100014: LeftForeArm
+    100016: LeftHand
+    100018: LeftHandMiddle1
+    100020: LeftHandMiddle2
+    100022: LeftHandPinky1
+    100024: LeftHandPinky2
+    100026: LeftHandThumb1
+    100028: LeftHandThumb2
+    100030: LeftLeg
+    100032: LeftShoulder
+    100034: LeftToeBase
+    100036: LeftUpLeg
+    100038: LeftWeapon
+    100040: low_shielder_Mesh
+    100042: low_shielder_Mesh_LO001
+    100044: Neck
+    100046: RightArm
+    100048: RightFoot
+    100050: RightForeArm
+    100052: RightHand
+    100054: RightHandMiddle1
+    100056: RightHandMiddle2
+    100058: RightHandPinky1
+    100060: RightHandPinky2
+    100062: RightHandThumb1
+    100064: RightHandThumb2
+    100066: RightLeg
+    100068: RightShoulder
+    100070: RightToeBase
+    100072: RightUpLeg
+    100074: RightWeapon
+    100076: Root
+    100078: Spine
+    100080: Spine1
+    100082: Spine2
+    100084: LeftToe
+    100086: RightToe
+    400000: //RootNode
+    400002: Eye
+    400004: Grunt_Shielder_Shield
+    400006: Head
+    400008: Hips
+    400010: LeftArm
+    400012: LeftFoot
+    400014: LeftForeArm
+    400016: LeftHand
+    400018: LeftHandMiddle1
+    400020: LeftHandMiddle2
+    400022: LeftHandPinky1
+    400024: LeftHandPinky2
+    400026: LeftHandThumb1
+    400028: LeftHandThumb2
+    400030: LeftLeg
+    400032: LeftShoulder
+    400034: LeftToeBase
+    400036: LeftUpLeg
+    400038: LeftWeapon
+    400040: low_shielder_Mesh
+    400042: low_shielder_Mesh_LO001
+    400044: Neck
+    400046: RightArm
+    400048: RightFoot
+    400050: RightForeArm
+    400052: RightHand
+    400054: RightHandMiddle1
+    400056: RightHandMiddle2
+    400058: RightHandPinky1
+    400060: RightHandPinky2
+    400062: RightHandThumb1
+    400064: RightHandThumb2
+    400066: RightLeg
+    400068: RightShoulder
+    400070: RightToeBase
+    400072: RightUpLeg
+    400074: RightWeapon
+    400076: Root
+    400078: Spine
+    400080: Spine1
+    400082: Spine2
+    400084: LeftToe
+    400086: RightToe
+    2300000: Grunt_Shielder_Shield
+    3300000: Grunt_Shielder_Shield
+    4300000: low_shielder_Mesh
+    4300002: low_shielder_Mesh_LO001
+    4300004: Grunt_Shielder_Shield
+    9500000: //RootNode
+    13700000: low_shielder_Mesh
+    13700002: low_shielder_Mesh_LO001
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

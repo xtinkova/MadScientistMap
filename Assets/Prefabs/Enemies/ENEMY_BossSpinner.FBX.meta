@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 4c319ce39caeff5488b6296516ba2105
+timeCreated: 1511858082
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Boss_Spinner
+    100002: //RootNode
+    100004: Eye
+    100006: Head
+    100008: Hips
+    100010: LeftArm
+    100012: LeftFoot
+    100014: LeftForeArm
+    100016: LeftHand
+    100018: LeftHandIndex1
+    100020: LeftHandIndex2
+    100022: LeftHandPinky1
+    100024: LeftHandPinky2
+    100026: LeftHandThumb1
+    100028: LeftLeg
+    100030: LeftShoulder
+    100032: LeftToe
+    100034: LeftUpLeg
+    100036: LeftWeapon
+    100038: Neck
+    100040: RightArm
+    100042: RightFoot
+    100044: RightForeArm
+    100046: RightHand
+    100048: RightHandIndex1
+    100050: RightHandIndex2
+    100052: RightHandPinky1
+    100054: RightHandPinky2
+    100056: RightHandThumb1
+    100058: RightLeg
+    100060: RightShoulder
+    100062: RightToe
+    100064: RightUpLeg
+    100066: RightWeapon
+    100068: Root
+    100070: Spine
+    100072: Spine1
+    100074: Spine2
+    100076: Boss_Spinner_Mesh
+    100078: Sword_Left
+    100080: Sword_Right
+    400000: Boss_Spinner
+    400002: //RootNode
+    400004: Eye
+    400006: Head
+    400008: Hips
+    400010: LeftArm
+    400012: LeftFoot
+    400014: LeftForeArm
+    400016: LeftHand
+    400018: LeftHandIndex1
+    400020: LeftHandIndex2
+    400022: LeftHandPinky1
+    400024: LeftHandPinky2
+    400026: LeftHandThumb1
+    400028: LeftLeg
+    400030: LeftShoulder
+    400032: LeftToe
+    400034: LeftUpLeg
+    400036: LeftWeapon
+    400038: Neck
+    400040: RightArm
+    400042: RightFoot
+    400044: RightForeArm
+    400046: RightHand
+    400048: RightHandIndex1
+    400050: RightHandIndex2
+    400052: RightHandPinky1
+    400054: RightHandPinky2
+    400056: RightHandThumb1
+    400058: RightLeg
+    400060: RightShoulder
+    400062: RightToe
+    400064: RightUpLeg
+    400066: RightWeapon
+    400068: Root
+    400070: Spine
+    400072: Spine1
+    400074: Spine2
+    400076: Boss_Spinner_Mesh
+    400078: Sword_Left
+    400080: Sword_Right
+    2300000: Sword_Left
+    2300002: Sword_Right
+    3300000: Sword_Left
+    3300002: Sword_Right
+    4300000: Boss_Spinner
+    4300002: Boss_Spinner_Mesh
+    4300004: Sword_Left
+    4300006: Sword_Right
+    9500000: //RootNode
+    13700000: Boss_Spinner
+    13700002: Boss_Spinner_Mesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

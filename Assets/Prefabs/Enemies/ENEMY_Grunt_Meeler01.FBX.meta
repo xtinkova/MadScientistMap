@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 90ba2d4d6faa7104da92394f530d3b52
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Head
+    100004: Hips
+    100006: Jaw
+    100008: LeftArm
+    100010: LeftFoot
+    100012: LeftForeArm
+    100014: LeftHair1
+    100016: LeftHair2
+    100018: LeftHair3
+    100020: LeftHair4
+    100022: LeftHair5
+    100024: LeftHair6
+    100026: LeftHand
+    100028: LeftHandMiddle1
+    100030: LeftHandMiddle3
+    100032: LeftHandMiddle4
+    100034: LeftHandThumb1
+    100036: LeftLeg
+    100038: LeftShoulder
+    100040: LeftToeBase
+    100042: LeftUpLeg
+    100044: low_meeler
+    100046: Neck
+    100048: RightArm
+    100050: RightFoot
+    100052: RightForeArm
+    100054: RightHair1
+    100056: RightHair2
+    100058: RightHair3
+    100060: RightHair4
+    100062: RightHair5
+    100064: RightHair6
+    100066: RightHand
+    100068: RightHandMiddle1
+    100070: RightHandMiddle3
+    100072: RightHandMiddle4
+    100074: RightHandThumb1
+    100076: RightLeg
+    100078: RightShoulder
+    100080: RightToeBase
+    100082: RightUpLeg
+    100084: Root
+    100086: Spine
+    100088: Spine1
+    100090: Spine2
+    100092: LeftHandMiddle2
+    100094: LeftHandMiddle5
+    100096: LeftHandMiddle6
+    100098: LeftHandThumb2
+    100100: RightHandMiddle2
+    100102: RightHandMiddle5
+    100104: RightHandMiddle6
+    100106: RightHandThumb2
+    100108: LeftWeapon
+    100110: RightWeapon
+    100112: Grunt_Meeler
+    100114: HUD
+    100116: S:Head
+    100118: S:Hips
+    100120: S:Jaw
+    100122: S:LeftArm
+    100124: S:LeftForeArm
+    100126: S:LeftLeg
+    100128: S:LeftShoulder
+    100130: S:LeftUpLeg
+    100132: S:Neck
+    100134: S:RightArm
+    100136: S:RightForeArm
+    100138: S:RightLeg
+    100140: S:RightShoulder
+    100142: S:RightUpLeg
+    100144: S:Spine
+    100146: S:Spine1
+    100148: S:Spine2
+    100150: Eye
+    100152: Grunt_meeler_Mesh01
+    100154: Grunt_meeler_Mesh_LOD01
+    100156: LeftToe
+    100158: RightToe
+    400000: //RootNode
+    400002: Head
+    400004: Hips
+    400006: Jaw
+    400008: LeftArm
+    400010: LeftFoot
+    400012: LeftForeArm
+    400014: LeftHair1
+    400016: LeftHair2
+    400018: LeftHair3
+    400020: LeftHair4
+    400022: LeftHair5
+    400024: LeftHair6
+    400026: LeftHand
+    400028: LeftHandMiddle1
+    400030: LeftHandMiddle3
+    400032: LeftHandMiddle4
+    400034: LeftHandThumb1
+    400036: LeftLeg
+    400038: LeftShoulder
+    400040: LeftToeBase
+    400042: LeftUpLeg
+    400044: low_meeler
+    400046: Neck
+    400048: RightArm
+    400050: RightFoot
+    400052: RightForeArm
+    400054: RightHair1
+    400056: RightHair2
+    400058: RightHair3
+    400060: RightHair4
+    400062: RightHair5
+    400064: RightHair6
+    400066: RightHand
+    400068: RightHandMiddle1
+    400070: RightHandMiddle3
+    400072: RightHandMiddle4
+    400074: RightHandThumb1
+    400076: RightLeg
+    400078: RightShoulder
+    400080: RightToeBase
+    400082: RightUpLeg
+    400084: Root
+    400086: Spine
+    400088: Spine1
+    400090: Spine2
+    400092: LeftHandMiddle2
+    400094: LeftHandMiddle5
+    400096: LeftHandMiddle6
+    400098: LeftHandThumb2
+    400100: RightHandMiddle2
+    400102: RightHandMiddle5
+    400104: RightHandMiddle6
+    400106: RightHandThumb2
+    400108: LeftWeapon
+    400110: RightWeapon
+    400112: Grunt_Meeler
+    400114: HUD
+    400116: S:Head
+    400118: S:Hips
+    400120: S:Jaw
+    400122: S:LeftArm
+    400124: S:LeftForeArm
+    400126: S:LeftLeg
+    400128: S:LeftShoulder
+    400130: S:LeftUpLeg
+    400132: S:Neck
+    400134: S:RightArm
+    400136: S:RightForeArm
+    400138: S:RightLeg
+    400140: S:RightShoulder
+    400142: S:RightUpLeg
+    400144: S:Spine
+    400146: S:Spine1
+    400148: S:Spine2
+    400150: Eye
+    400152: Grunt_meeler_Mesh01
+    400154: Grunt_meeler_Mesh_LOD01
+    400156: LeftToe
+    400158: RightToe
+    2300000: low_meeler
+    2300002: //RootNode
+    3300000: low_meeler
+    3300002: //RootNode
+    4300000: low_meeler
+    4300002: Grunt_Meeler
+    4300004: Grunt_meeler_Mesh01
+    4300006: Grunt_meeler_Mesh_LOD01
+    7400000: Take 001
+    9500000: //RootNode
+    11400000: //RootNode
+    13700000: low_meeler
+    13700002: Grunt_Meeler
+    13700004: Grunt_meeler_Mesh01
+    13700006: Grunt_meeler_Mesh_LOD01
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 225
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: low_meeler
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Hips
+        weight: 1
+      - path: Root/Hips/LeftUpLeg
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: Root/Hips/RightUpLeg
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: Root/Hips/Spine
+        weight: 1
+      - path: Root/Hips/Spine/Spine1
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/LeftShoulder
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle3
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle4
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftWeapon
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/Neck
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/Neck/Head/Jaw
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/Neck/Head/LeftHair1
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/Neck/Head/LeftHair1/LeftHair2
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/Neck/Head/LeftHair3
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/Neck/Head/LeftHair3/LeftHair4
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/Neck/Head/LeftHair5
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/Neck/Head/LeftHair5/LeftHair6
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/Neck/Head/RightHair1
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/Neck/Head/RightHair1/RightHair2
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/Neck/Head/RightHair3
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/Neck/Head/RightHair3/RightHair4
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/Neck/Head/RightHair5
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/Neck/Head/RightHair5/RightHair6
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/RightShoulder
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle3
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle4
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1
+        weight: 1
+      - path: Root/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightWeapon
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
